@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
+    <link type="text/css" rel="stylesheet" href="../../styles/global.css" />
+    <title>All Book Listings</title>
+  </head>
+  <body class="book-list">
+    <div class="details">
+    </div>
+    <div class="book-groups">
+      <div class="book-group">
+        <span class="id">NB91</span>
+        <span class="name">Windows Development Desktop App Development (2018)</span>
+        <span class="vendor">Microsoft</span>
+        <div class="book">
+          <span class="id">B690</span>
+          <span class="locale">en-us</span>
+          <span class="name">Windows Desktop App Development (2018)</span>
+          <span class="description">Contains Windows Desktop programming concepts, platform feature descriptions, and basic instructions for developing Desktop apps. Includes a Win32 and COM API reference.</span>
+          <span class="BrandingPackageName">vs2017_Branding2_en-US</span>
+          <div class="properties">
+            <div class="paths">
+              <div class="path">
+                <span class="languages">None</span>
+                <span class="membership">Recommended</span>
+                <span class="name">\Recommended</span>
+                <span class="priority">1000</span>
+                <span class="skuId">3000</span>
+                <span class="skuName">Enterprise</span>
+              </div>
+              <div class="path">
+                <span class="languages">None</span>
+                <span class="membership">Recommended</span>
+                <span class="name">\Recommended</span>
+                <span class="priority">1000</span>
+                <span class="skuId">2000</span>
+                <span class="skuName">Professional</span>
+              </div>
+              <div class="path">
+                <span class="languages">None</span>
+                <span class="membership">Recommended</span>
+                <span class="name">\Recommended</span>
+                <span class="priority">1000</span>
+                <span class="skuId">500</span>
+                <span class="skuName">Express</span>
+              </div>
+              <div class="path">
+                <span class="languages">None</span>
+                <span class="membership">Recommended</span>
+                <span class="name">\Recommended</span>
+                <span class="priority">1000</span>
+                <span class="skuId">1000</span>
+                <span class="skuName">Standard</span>
+              </div>
+            </div>
+          </div>
+          <div class="packages">
+            The following packages are available: in this book:
+            <div class="package">
+              <span class="packageType">branding</span>
+              <span class="packageFormat">v2.0</span>
+              <span class="name">vs2017_Branding2_en-US</span>Deployed:
+              <span class="deployed">true</span>
+              <span class="last-modified">2018-08-16T06:51:55.000Z</span>
+              <span class="package-etag">d0e1ee9f-60c2-30f1-8361-9335f1e70483</span>
+              <a class="current-link" href="https://offlinebook.mtps.microsoft.com/a995dbaf-5f24-4808-b642-24472d7a6234/vs2017_Branding2_en-US(d0e1ee9f-60c2-30f1-8361-9335f1e70483).cab">vs2017_Branding2_en-US(d0e1ee9f-60c2-30f1-8361-9335f1e70483).cab</a>
+              <span class="package-size-bytes">41068</span>
+              <span class="package-size-bytes-uncompressed">37407</span>(Package Constituents:
+              <a class="package-constituent-link" href="../../packages/vs2017_Branding2_en-US">vs2017_Branding2_en-US</a>)
+            </div>
+            <div class="package">
+              <span class="packageType">content</span>
+              <span class="packageFormat">v2.0</span>
+              <span class="name">v2Windows Desktop App Development_en-us_vs.85_0</span>Deployed:
+              <span class="deployed">true</span>
+              <span class="last-modified">2019-06-06T10:00:00.000Z</span>
+              <span class="package-etag">5075b787-5214-6f35-f7e8-0a63735c45c3</span>
+              <a class="current-link" href="https://offlinebook.mtps.microsoft.com/498b1388-085a-424c-b617-7a1ffde5af3f/v2Windows Desktop App Development_en-us_vs.85_0(5075b787-5214-6f35-f7e8-0a63735c45c3).cab">v2Windows Desktop App Development_en-us_vs.85_1(5075b787-5214-6f35-f7e8-0a63735c45c3).cab</a>
+              <span class="package-size-bytes">39999140</span>
+              <span class="package-size-bytes-uncompressed">58608959</span>(Package Constituents:
+              <a class="package-constituent-link" href="../../packages/v2Windows Desktop App Development_en-us_vs.85_0">v2Windows Desktop App Development_en-us_vs.85_0</a>)
+            </div>
+            <div class="package">
+              <span class="packageType">content</span>
+              <span class="packageFormat">v2.0</span>
+              <span class="name">v2Windows Desktop App Development_en-us_vs.85_1</span>Deployed:
+              <span class="deployed">true</span>
+              <span class="last-modified">2019-06-06T10:00:00.000Z</span>
+              <span class="package-etag">010073a3-a253-dd45-86f9-ddd2e302806f</span>
+              <a class="current-link" href="https://offlinebook.mtps.microsoft.com/498b1388-085a-424c-b617-7a1ffde5af3f/v2Windows Desktop App Development_en-us_vs.85_1(010073a3-a253-dd45-86f9-ddd2e302806f).cab">v2Windows Desktop App Development_en-us_vs.85_1(010073a3-a253-dd45-86f9-ddd2e302806f).cab</a>
+              <span class="package-size-bytes">44556978</span>
+              <span class="package-size-bytes-uncompressed">65675846</span>(Package Constituents:
+              <a class="package-constituent-link" href="../../packages/v2Windows Desktop App Development_en-us_vs.85_1">v2Windows Desktop App Development_en-us_vs.85_1</a>)
+            </div>
+            <div class="package">
+              <span class="packageType">content</span>
+              <span class="packageFormat">v2.0</span>
+              <span class="name">v2Windows Desktop App Development_en-us_vs.85_2</span>Deployed:
+              <span class="deployed">true</span>
+              <span class="last-modified">2019-06-06T10:00:00.000Z</span>
+              <span class="package-etag">c3aecde5-0bee-a85a-7840-4e113f03b2b6</span>
+              <a class="current-link" href="https://offlinebook.mtps.microsoft.com/498b1388-085a-424c-b617-7a1ffde5af3f/v2Windows Desktop App Development_en-us_vs.85_2(c3aecde5-0bee-a85a-7840-4e113f03b2b6).cab">v2Windows Desktop App Development_en-us_vs.85_2(c3aecde5-0bee-a85a-7840-4e113f03b2b6).cab</a>
+              <span class="package-size-bytes">33559604</span>
+              <span class="package-size-bytes-uncompressed">50857790</span>(Package Constituents:
+              <a class="package-constituent-link" href="../../packages/v2Windows Desktop App Development_en-us_vs.85_2">v2Windows Desktop App Development_en-us_vs.85_2</a>)
+            </div>
+            <div class="package">
+              <span class="packageType">content</span>
+              <span class="packageFormat">v2.0</span>
+              <span class="name">v2Windows Desktop App Development_en-us_vs.85_3</span>Deployed:
+              <span class="deployed">true</span>
+              <span class="last-modified">2019-06-06T10:00:00.000Z</span>
+              <span class="package-etag">c0c36ceb-429f-6eb4-7a22-ca741c28e0ee</span>
+              <a class="current-link" href="https://offlinebook.mtps.microsoft.com/498b1388-085a-424c-b617-7a1ffde5af3f/v2Windows Desktop App Development_en-us_vs.85_3(c0c36ceb-429f-6eb4-7a22-ca741c28e0ee).cab">v2Windows Desktop App Development_en-us_vs.85_3(c0c36ceb-429f-6eb4-7a22-ca741c28e0ee).cab</a>
+              <span class="package-size-bytes">22993194</span>
+              <span class="package-size-bytes-uncompressed">38611349</span>(Package Constituents:
+              <a class="package-constituent-link" href="../../packages/v2Windows Desktop App Development_en-us_vs.85_3">v2Windows Desktop App Development_en-us_vs.85_3</a>)
+            </div>
+            <div class="package">
+              <span class="packageType">content</span>
+              <span class="packageFormat">v2.0</span>
+              <span class="name">v2Windows Desktop App Development_en-us_vs.85_4</span>Deployed:
+              <span class="deployed">true</span>
+              <span class="last-modified">2019-06-06T10:00:00.000Z</span>
+              <span class="package-etag">867a8bc1-a7af-2cc6-fdd8-ca6c172bad32</span>
+              <a class="current-link" href="https://offlinebook.mtps.microsoft.com/498b1388-085a-424c-b617-7a1ffde5af3f/v2Windows Desktop App Development_en-us_vs.85_4(867a8bc1-a7af-2cc6-fdd8-ca6c172bad32).cab">v2Windows Desktop App Development_en-us_vs.85_4(867a8bc1-a7af-2cc6-fdd8-ca6c172bad32).cab</a>
+              <span class="package-size-bytes">39624892</span>
+              <span class="package-size-bytes-uncompressed">61456084</span>(Package Constituents:
+              <a class="package-constituent-link" href="../../packages/v2Windows Desktop App Development_en-us_vs.85_4">v2Windows Desktop App Development_en-us_vs.85_4</a>)
+            </div>
+            <div class="package">
+              <span class="packageType">content</span>
+              <span class="packageFormat">v2.0</span>
+              <span class="name">v2Windows Desktop App Development_en-us_vs.85_5</span>Deployed:
+              <span class="deployed">true</span>
+              <span class="last-modified">2019-06-06T10:00:00.000Z</span>
+              <span class="package-etag">21ecd5df-d1c8-ee67-c1b9-ba796ef74dda</span>
+              <a class="current-link" href="https://offlinebook.mtps.microsoft.com/498b1388-085a-424c-b617-7a1ffde5af3f/v2Windows Desktop App Development_en-us_vs.85_5(21ecd5df-d1c8-ee67-c1b9-ba796ef74dda).cab">v2Windows Desktop App Development_en-us_vs.85_5(21ecd5df-d1c8-ee67-c1b9-ba796ef74dda).cab</a>
+              <span class="package-size-bytes">27862190</span>
+              <span class="package-size-bytes-uncompressed">44391212</span>(Package Constituents:
+              <a class="package-constituent-link" href="../../packages/v2Windows Desktop App Development_en-us_vs.85_5">v2Windows Desktop App Development_en-us_vs.85_5</a>)
+            </div>
+            <div class="package">
+              <span class="packageType">content</span>
+              <span class="packageFormat">v2.0</span>
+              <span class="name">v2Windows Desktop App Development_en-us_vs.85_6</span>Deployed:
+              <span class="deployed">true</span>
+              <span class="last-modified">2019-06-06T10:00:00.000Z</span>
+              <span class="package-etag">c89a92ce-5c1c-7684-8962-53bf3270b451</span>
+              <a class="current-link" href="https://offlinebook.mtps.microsoft.com/498b1388-085a-424c-b617-7a1ffde5af3f/v2Windows Desktop App Development_en-us_vs.85_6(c89a92ce-5c1c-7684-8962-53bf3270b451).cab">v2Windows Desktop App Development_en-us_vs.85_6(c89a92ce-5c1c-7684-8962-53bf3270b451).cab</a>
+              <span class="package-size-bytes">24565156</span>
+              <span class="package-size-bytes-uncompressed">39837721</span>(Package Constituents:
+              <a class="package-constituent-link" href="../../packages/v2Windows Desktop App Development_en-us_vs.85_6">v2Windows Desktop App Development_en-us_vs.85_6</a>)
+            </div>
+            <div class="package">
+              <span class="packageType">content</span>
+              <span class="packageFormat">v2.0</span>
+              <span class="name">v2Windows Desktop App Development_en-us_vs.85_7</span>Deployed:
+              <span class="deployed">true</span>
+              <span class="last-modified">2019-06-06T10:00:00.000Z</span>
+              <span class="package-etag">1d532833-d701-779a-ec56-ae1a00cad2c6</span>
+              <a class="current-link" href="https://offlinebook.mtps.microsoft.com/498b1388-085a-424c-b617-7a1ffde5af3f/v2Windows Desktop App Development_en-us_vs.85_7(1d532833-d701-779a-ec56-ae1a00cad2c6).cab">v2Windows Desktop App Development_en-us_vs.85_7(1d532833-d701-779a-ec56-ae1a00cad2c6).cab</a>
+              <span class="package-size-bytes">27618542</span>
+              <span class="package-size-bytes-uncompressed">44348685</span>(Package Constituents:
+              <a class="package-constituent-link" href="../../packages/v2Windows Desktop App Development_en-us_vs.85_7">v2Windows Desktop App Development_en-us_vs.85_7</a>)
+            </div>
+            <div class="package">
+              <span class="packageType">content</span>
+              <span class="packageFormat">v2.0</span>
+              <span class="name">v2Windows Desktop App Development_en-us_vs.85_8</span>Deployed:
+              <span class="deployed">true</span>
+              <span class="last-modified">2019-06-06T10:00:00.000Z</span>
+              <span class="package-etag">b955e5a5-0fc7-c317-de06-7cd0ce19e646</span>
+              <a class="current-link" href="https://offlinebook.mtps.microsoft.com/498b1388-085a-424c-b617-7a1ffde5af3f/v2Windows Desktop App Development_en-us_vs.85_8(b955e5a5-0fc7-c317-de06-7cd0ce19e646).cab">v2Windows Desktop App Development_en-us_vs.85_8(b955e5a5-0fc7-c317-de06-7cd0ce19e646).cab</a>
+              <span class="package-size-bytes">24852568</span>
+              <span class="package-size-bytes-uncompressed">40554450</span>(Package Constituents:
+              <a class="package-constituent-link" href="../../packages/v2Windows Desktop App Development_en-us_vs.85_8">v2Windows Desktop App Development_en-us_vs.85_8</a>)
+            </div>
+            <div class="package">
+              <span class="packageType">content</span>
+              <span class="packageFormat">v2.0</span>
+              <span class="name">v2Windows Desktop App Development_en-us_vs.85_9</span>Deployed:
+              <span class="deployed">true</span>
+              <span class="last-modified">2019-06-06T10:00:00.000Z</span>
+              <span class="package-etag">377f4b13-a5e1-4ac0-09b3-6094327f2152</span>
+              <a class="current-link" href="https://offlinebook.mtps.microsoft.com/498b1388-085a-424c-b617-7a1ffde5af3f/v2Windows Desktop App Development_en-us_vs.85_9(377f4b13-a5e1-4ac0-09b3-6094327f2152).cab">v2Windows Desktop App Development_en-us_vs.85_9(377f4b13-a5e1-4ac0-09b3-6094327f2152).cab</a>
+              <span class="package-size-bytes">27292382</span>
+              <span class="package-size-bytes-uncompressed">45382340</span>(Package Constituents:
+              <a class="package-constituent-link" href="../../packages/v2Windows Desktop App Development_en-us_vs.85_9">v2Windows Desktop App Development_en-us_vs.85_9</a>)
+            </div>
+            <div class="package">
+              <span class="packageType">content</span>
+              <span class="packageFormat">v2.0</span>
+              <span class="name">v2Windows Desktop App Development_en-us_vs.85_10</span>Deployed:
+              <span class="deployed">true</span>
+              <span class="last-modified">2019-06-06T10:00:00.000Z</span>
+              <span class="package-etag">4fed91d2-ece6-6a9c-5137-263fda8d73e2</span>
+              <a class="current-link" href="https://offlinebook.mtps.microsoft.com/498b1388-085a-424c-b617-7a1ffde5af3f/v2Windows Desktop App Development_en-us_vs.85_10(4fed91d2-ece6-6a9c-5137-263fda8d73e2).cab">v2Windows Desktop App Development_en-us_vs.85_10(4fed91d2-ece6-6a9c-5137-263fda8d73e2).cab</a>
+              <span class="package-size-bytes">20683520</span>
+              <span class="package-size-bytes-uncompressed">35220501</span>(Package Constituents:
+              <a class="package-constituent-link" href="../../packages/v2Windows Desktop App Development_en-us_vs.85_10">v2Windows Desktop App Development_en-us_vs.85_10</a>)
+            </div>
+            <div class="package">
+              <span class="packageType">content</span>
+              <span class="packageFormat">v2.0</span>
+              <span class="name">v2Windows Desktop App Development_en-us_vs.85_11</span>Deployed:
+              <span class="deployed">true</span>
+              <span class="last-modified">2019-06-06T10:00:00.000Z</span>
+              <span class="package-etag">1ffc4da0-63f7-1215-bc16-bc7f84202df6</span>
+              <a class="current-link" href="https://offlinebook.mtps.microsoft.com/498b1388-085a-424c-b617-7a1ffde5af3f/v2Windows Desktop App Development_en-us_vs.85_11(1ffc4da0-63f7-1215-bc16-bc7f84202df6).cab">v2Windows Desktop App Development_en-us_vs.85_11(1ffc4da0-63f7-1215-bc16-bc7f84202df6).cab</a>
+              <span class="package-size-bytes">4223196</span>
+              <span class="package-size-bytes-uncompressed">7438112</span>(Package Constituents:
+              <a class="package-constituent-link" href="../../packages/v2Windows Desktop App Development_en-us_vs.85_11">v2Windows Desktop App Development_en-us_vs.85_11</a>)
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
