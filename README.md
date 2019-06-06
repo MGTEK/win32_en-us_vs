@@ -4,7 +4,7 @@ Visual Studio can display online help in a webbrowser, as well as [offline help 
 
 For quite some time, the offline help files for Windows Desktop App Development are screwed up. For instance, if you enter *CreateFile* in the index, nothing (or merely related pages) will show up. If you press F1 in Visual Studio, it will usually display the online help variant.
 
-I noticed that I had a machine with an older documentation set that was still working properly. I decided to create a help manifest that you can use to download a working version of Windows Desktop App Development. It is older documentation set from about 2018, and includes 
+I noticed that I had a machine with an older documentation set that was still working properly. I decided to create a help manifest that you can use to download a working version of Windows Desktop App Development. It is older documentation set from about 2018, and includes help up to Windows 10 version 1709.
 
 ## Install Windows Desktop App Development 2018
 
